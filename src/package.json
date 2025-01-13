@@ -1,0 +1,19 @@
+{
+  "title": "ResponsiveDrawer Material Demo",
+  "name": "ResponsiveDrawer Material Demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.2.6/docs/src/pages/components/drawers/ResponsiveDrawer.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/styles": "5.2.3",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-chat-bubble": "0.8.7",
+    "react-dom": "latest"
+  }
+}
